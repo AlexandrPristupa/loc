@@ -1,0 +1,41 @@
+{
+	"title_enterprise_solution": {
+		"context": "Enterprise solution for integrating Salesforce with Outlook that actually works"
+	},
+	"link": {
+		"context": "Learn More" 
+	},
+	"title_increase_sales": {
+		"context": "Increase Sales Productivity by"
+	},
+	"work_with_all": {
+		"context": "Work with all your Salesforce right from Outlook"
+	},
+	"keep_your_salesforce": {
+		"context": "Keep your Salesforce data always up-to-date"
+	},
+	"automatically_synchronize": {
+		"context": "Automatically synchronize:",
+
+		"menu": {
+			"emails": {
+				"context": "Emails"
+			},
+			"tasks": {
+				"context": "tasks"
+			},
+			"contacts": {
+				"context": "Contacts"
+			},
+			"calendars": {
+				"context": "Calendars"
+			}
+		}
+	},
+	"book_every_meeting": {
+		"context": "Book every meeting with a single email"
+	},
+	"schedule_meetings": {
+		"context": "Schedule meetings by inserting clickable timeslots into emails"
+	}
+}

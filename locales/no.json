@@ -1,0 +1,41 @@
+{
+	"title_enterprise_solution": {
+		"context": ""
+	},
+	"link": {
+		"context": "" 
+	},
+	"title_increase_sales": {
+		"context": ""
+	},
+	"work_with_all": {
+		"context": ""
+	},
+	"keep_your_salesforce": {
+		"context": ""
+	},
+	"automatically_synchronize": {
+		"context": "",
+
+		"menu": {
+			"emails": {
+				"context": ""
+			},
+			"tasks": {
+				"context": ""
+			},
+			"contacts": {
+				"context": ""
+			},
+			"calendars": {
+				"context": ""
+			}
+		}
+	},
+	"book_every_meeting": {
+		"context": ""
+	},
+	"schedule_meetings": {
+		"context": ""
+	}
+}
